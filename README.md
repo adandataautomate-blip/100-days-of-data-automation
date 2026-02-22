@@ -23,16 +23,16 @@ I'm a Data Science student documenting my journey to becoming a Data Automation 
 
 Day | Topic        
 |-----|-------
-| 1 | syntax        
-| 2 | Variables            
+| 1 | syntax     
+| 2 | Variables           
 | 3 | datatypes       
 | 4 | indentation     
 | 5 | print functions    
 | 6 | essential functions 
 | 7 | list,string methods  
 | 8 | operators       
-| 9 | if-else        
-|10 | loops         
+| 9 | if-else       
+|10 | loops        
 
 ## 🔥 What Recruiters Will Find Here
 - ✅ Clean, documented code
