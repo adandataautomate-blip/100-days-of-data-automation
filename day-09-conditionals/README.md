@@ -27,3 +27,4 @@ In healthcare automation, insurance claims are auto‑approved, rejected, or fla
 I struggled with managing multiple nested conditions clearly.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation

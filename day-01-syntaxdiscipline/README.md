@@ -21,3 +21,4 @@ In compliance automation, expense reports must be validated before reimbursement
 I struggled with remembering to add colons and proper indentation in the if‑else block so the script didn’t throw errors.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation

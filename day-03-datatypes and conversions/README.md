@@ -26,3 +26,4 @@ In healthcare automation, patient age must be an integer, billing amounts floats
 I struggled with deciding when to use boolean flags versus strings.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation

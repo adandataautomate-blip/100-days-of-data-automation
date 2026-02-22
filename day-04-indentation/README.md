@@ -24,3 +24,4 @@ In warehouse automation, robots must scan, log, move, and confirm items in seque
 I found it tricky to keep nested conditions aligned without losing track of the flow.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation

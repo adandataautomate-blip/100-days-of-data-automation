@@ -36,3 +36,4 @@ In supply chain automation, lists track shipment statuses like pending, in‑tra
 I struggled with extending lists across multiple warehouses.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation

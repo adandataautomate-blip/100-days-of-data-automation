@@ -21,18 +21,18 @@ I'm a Data Science student documenting my journey to becoming a Data Automation 
 
 ## 📅 Progress Tracker
 
-Day | Topic        | Code                | What I Built |
-|-----|-------|------|--------------|
-| 1 | syntax        | [Link](day-01-syntax-discipline)    |
-| 2 | Variables       | [Link](day-02-variables)        |
-| 3 | datatypes       | [Link](day-03-datatypes &conversions) |
-| 4 | indentation      | [Link](day-04-indentation)
-| 5 | print functions    | [Link](day-05-print)
-| 6 | essential functions  | [Link](day-06-essentialfunctions)
-| 7 | list,string methods  | [Link](day-07-list,str methods)
-| 8 | operators       |     (day-08-operators)
-| 9 | if-else        |     (day-09-conditionals)
-|10 | loops         |     (day-10-loops)
+Day | Topic        
+|-----|-------
+| 1 | syntax        
+| 2 | Variables            
+| 3 | datatypes       
+| 4 | indentation     
+| 5 | print functions    
+| 6 | essential functions 
+| 7 | list,string methods  
+| 8 | operators       
+| 9 | if-else        
+|10 | loops         
 
 ## 🔥 What Recruiters Will Find Here
 - ✅ Clean, documented code

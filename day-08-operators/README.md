@@ -30,3 +30,4 @@ In retail automation, operators enforce discount policies. Premium customers get
 I struggled with operator precedence in complex conditions.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation

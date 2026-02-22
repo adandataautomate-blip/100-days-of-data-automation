@@ -25,3 +25,4 @@ In customer feedback automation, these functions help collect responses, check i
 I struggled with looping inputs for multiple customers smoothly.
 
 📌 Connect With Me
+linkedin.com/in/adan-fatima-automation
